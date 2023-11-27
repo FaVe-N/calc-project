@@ -23,7 +23,7 @@ function Calculator(){
     return(
         <>
         <div className="container">
-            <div className="top"><p>Simple Calculator</p></div>
+            <div className="top"><p>Old Calculator</p></div>
             
             <div type="text">
             <h1>{result}</h1>
